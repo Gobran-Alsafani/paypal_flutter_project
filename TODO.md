@@ -1,0 +1,3 @@
+- [x] Fix NotificationController in lib/notificationpage.dart to use per-user tags
+- [x] Fix NotificationController in lib/send/select_send.dart to use per-user tags
+- [x] Add welcome notification in lib/auth/signup.dart
